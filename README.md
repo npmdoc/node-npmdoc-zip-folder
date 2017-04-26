@@ -1,6 +1,6 @@
 # npmdoc-zip-folder
 
-#### api documentation for  [zip-folder (v1.0.0)](https://github.com/sole/node-zip-folder)  [![npm package](https://img.shields.io/npm/v/npmdoc-zip-folder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-zip-folder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-zip-folder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-zip-folder)
+#### basic api documentation for  [zip-folder (v1.0.0)](https://github.com/sole/node-zip-folder)  [![npm package](https://img.shields.io/npm/v/npmdoc-zip-folder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-zip-folder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-zip-folder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-zip-folder)
 
 #### zips a folder and calls your callback when it's done
 
@@ -63,7 +63,8 @@
     "scripts": {
         "test": "nodeunit tests.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
